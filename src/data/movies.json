@@ -1,0 +1,393 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/t5zCBSB5xMDKcDqe91qahCOUYVV.jpg",
+        "genre_ids": [
+            27,
+            9648
+        ],
+        "id": 507089,
+        "original_language": "en",
+        "original_title": "Five Nights at Freddy's",
+        "overview": "Recently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.",
+        "popularity": 5378.969,
+        "poster_path": "/A4j8S6moJS2zNtRR8oWF08gRnL5.jpg",
+        "release_date": "2023-10-25",
+        "title": "Five Nights at Freddy's",
+        "video": false,
+        "vote_average": 8.369,
+        "vote_count": 1293
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5Di2tovzn8lnXWxigV6xm7yrL24.jpg",
+        "genre_ids": [
+            16,
+            12,
+            28,
+            14,
+            10751
+        ],
+        "id": 1147400,
+        "original_language": "fr",
+        "original_title": "Miraculous World : Paris, Les Aventures de Toxinelle et Griffe Noire",
+        "overview": "Miraculous holders from another world appear in Paris. They come from a parallel universe where everything is reversed: the holders of Ladybug and Black Cat Miraculouses, Shadybug and Claw Noir, are the bad guys, and the holder of the Butterfly Miraculous, Hesperia, is a superhero. Ladybug and Cat Noir will have to help Hesperia counter the attacks of their evil doubles and prevent them from seizing the Butterfly's Miraculous. Can our heroes also help Hesperia make Shadybug and Claw Noir better people?",
+        "popularity": 206.503,
+        "poster_path": "/A46SghdyD9y7qQUxB5zOslospJ7.jpg",
+        "release_date": "2023-10-21",
+        "title": "Miraculous World: Paris, Tales of Shadybug and Claw Noir",
+        "video": false,
+        "vote_average": 7.274,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8KJMOKyl9rpgb9ELEwhfBMIaTHw.jpg",
+        "genre_ids": [
+            10751,
+            16,
+            14,
+            35
+        ],
+        "id": 1139087,
+        "original_language": "en",
+        "original_title": "Once Upon a Studio",
+        "overview": "Created for Disney's 100th anniversary, the short features Mickey Mouse corralling a gallery of legendary Disney characters for a group photo.",
+        "popularity": 558.665,
+        "poster_path": "/hr8ZtwdbtjBquxlTCrczr685K5T.jpg",
+        "release_date": "2023-09-24",
+        "title": "Once Upon a Studio",
+        "video": false,
+        "vote_average": 8.523,
+        "vote_count": 199
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6tCTR5Gr91Kocrt0goLrpFs1tqh.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 833326,
+        "original_language": "fr",
+        "original_title": "Rien à foutre",
+        "overview": "Cassandre, 26, is a flight attendant for a low-cost airline. Based in Lanzarote, she’s always willing to take on extra hours and carries out her duties with robotic efficiency. On the side, she just goes with the flow and floats between Tinder, parties and lazy days. When she suddenly gets dismissed, she is forced to return home.",
+        "popularity": 112.297,
+        "poster_path": "/wLZ5jijVpOxHuBLmsICKLXwlldu.jpg",
+        "release_date": "2022-03-02",
+        "title": "Zero Fucks Given",
+        "video": false,
+        "vote_average": 6.396,
+        "vote_count": 297
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+        "genre_ids": [
+            16,
+            28,
+            12
+        ],
+        "id": 569094,
+        "original_language": "en",
+        "original_title": "Spider-Man: Across the Spider-Verse",
+        "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+        "popularity": 547.13,
+        "poster_path": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+        "release_date": "2023-05-31",
+        "title": "Spider-Man: Across the Spider-Verse",
+        "video": false,
+        "vote_average": 8.414,
+        "vote_count": 4736
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jkKVLzLWjSvTnc84VzeljhSy6j8.jpg",
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "id": 820525,
+        "original_language": "en",
+        "original_title": "After Everything",
+        "overview": "Besieged by writer’s block and the crushing breakup with Tessa, Hardin travels to Portugal in search of a woman he wronged in the past – and to find himself. Hoping to win back Tessa, he realizes he needs to change his ways before he can make the ultimate commitment.",
+        "popularity": 446.605,
+        "poster_path": "/uQxjZGU6rxSPSMeAJPJQlmfV3ys.jpg",
+        "release_date": "2023-09-13",
+        "title": "After Everything",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 417
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            10402
+        ],
+        "id": 461191,
+        "original_language": "en",
+        "original_title": "A",
+        "overview": "A young alcoholic ambient musician locks himself in his apartment on a dangerous seven day bender as he attempts to finish his upcoming album.",
+        "popularity": 4.175,
+        "poster_path": "/4uOKZzRB615cIxcVi31pcsdFtSS.jpg",
+        "release_date": "2017-09-13",
+        "title": "A",
+        "video": false,
+        "vote_average": 7.202,
+        "vote_count": 57
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ltpW5exyTdqL5twV8zRMajf1VgU.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 24791,
+        "original_language": "ja",
+        "original_title": "A",
+        "overview": "Roughly chronological, from 3/96 to 11/96, with a coda in spring of 1997: inside compounds of Aum Shinrikyo, a Buddhist sect led by Shoko Asahara. (Members confessed to a murderous sarin attack in the Tokyo subway in 1995.) We see what they eat, where they sleep, and how they respond to media scrutiny, on-going trials, the shrinking of their fortunes, and the criticism of society. Central focus is placed on Hiroshi Araki, a young man who finds himself elevated to chief spokesman for Aum after its leaders are arrested. Araki faces extreme hostility from the Japanese public, who find it hard to believe that most followers of the cult had no idea of the attacks and even harder to understand why these followers remain devoted to the religion, if not the violence.",
+        "popularity": 3.107,
+        "poster_path": "/dBLzrfh5DtxJey1hOYZaN2drPe3.jpg",
+        "release_date": "1998-09-09",
+        "title": "A",
+        "video": false,
+        "vote_average": 6.189,
+        "vote_count": 53
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5quyXeEA6RaoTjaiypECXOKXT2o.jpg",
+        "genre_ids": [
+            35,
+            9648
+        ],
+        "id": 1179664,
+        "original_language": "es",
+        "original_title": "Invitación a un Asesinato",
+        "overview": "Eccentric millionaire Olivia sends her half sister Agatha, and a group of old acquaintances, a mysterious invitation for a weekend on her yacht, where they will discover the true motive behind this invitation: the celebration of… a murder?",
+        "popularity": 52.268,
+        "poster_path": "/3DZN9QD2IDwG6YMuk0NvJRNbeJP.jpg",
+        "release_date": "2023-10-06",
+        "title": "A Deadly Invitation",
+        "video": false,
+        "vote_average": 6.052,
+        "vote_count": 97
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2zzaJ9jzyK1Am8XoS0dFjmP8V0L.jpg",
+        "genre_ids": [
+            28,
+            53,
+            27
+        ],
+        "id": 1135229,
+        "original_language": "en",
+        "original_title": "I Am Rage",
+        "overview": "An ancient cult embroiled in a sinister blood trade makes the deadly mistake of abducting a young woman with a violent, shocking past.",
+        "popularity": 90.5,
+        "poster_path": "/iclmQs4O5dy7EAkbykI1qkowfK2.jpg",
+        "release_date": "2023-09-14",
+        "title": "I Am Rage",
+        "video": false,
+        "vote_average": 6.75,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3H8u03qr9se2pCv3QTHR1gxSa9k.jpg",
+        "genre_ids": [
+            99,
+            28,
+            12
+        ],
+        "id": 1174725,
+        "original_language": "de",
+        "original_title": "Duell am Abgrund",
+        "overview": "Fearless alpine climbers Ueli Steck and Dani Arnold enter into a death-defying rivalry to set speed records on the Swiss Alps' great north faces.",
+        "popularity": 109.87,
+        "poster_path": "/tI9ybrWLiVLljLsNoqEjQF36oG4.jpg",
+        "release_date": "2023-10-04",
+        "title": "Race to the Summit",
+        "video": false,
+        "vote_average": 6.456,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a2K8ak4pGCHR3O0hMualcokXXpa.jpg",
+        "genre_ids": [
+            10749,
+            53
+        ],
+        "id": 210763,
+        "original_language": "kn",
+        "original_title": "A",
+        "overview": "A film director fades away from the industry after the failed love with the heroine of his movie. After being rehabilitated, he learns that some people conspired his fall and decides to take revenge.",
+        "popularity": 2.132,
+        "poster_path": "/y3DH68oWOGMZ637tqYHfTGU4Bif.jpg",
+        "release_date": "1998-02-12",
+        "title": "A",
+        "video": false,
+        "vote_average": 6.256,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kHlX3oqdD4VGaLpB8O78M25KfdS.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            80
+        ],
+        "id": 945729,
+        "original_language": "en",
+        "original_title": "A Haunting in Venice",
+        "overview": "Celebrated sleuth Hercule Poirot, now retired and living in self-imposed exile in Venice, reluctantly attends a Halloween séance at a decaying, haunted palazzo. When one of the guests is murdered, the detective is thrust into a sinister world of shadows and secrets.",
+        "popularity": 586.188,
+        "poster_path": "/1Xgjl22MkAZQUavvOeBqRehrvqO.jpg",
+        "release_date": "2023-09-13",
+        "title": "A Haunting in Venice",
+        "video": false,
+        "vote_average": 6.819,
+        "vote_count": 789
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oFSQEG1lJTTISj3QKB7cJ9ANkFw.jpg",
+        "genre_ids": [
+            16,
+            28,
+            10751
+        ],
+        "id": 1154598,
+        "original_language": "en",
+        "original_title": "LEGO Marvel Avengers: Code Red",
+        "overview": "The Avengers gather to celebrate their latest victory, but their celebration is quickly interrupted by the mysterious disappearance of Black Widow's father, Red Guardian. As the Avengers investigate, they discover that Red Guardian isn't the only one missing when they meet a dangerous new foe quite unlike anything they've ever encountered before.",
+        "popularity": 536.775,
+        "poster_path": "/rDzig50dj7VpLwJ7SThbamETK1G.jpg",
+        "release_date": "2023-10-26",
+        "title": "LEGO Marvel Avengers: Code Red",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uRizG2pUwHNjmTLrUvqdi3pWK1n.jpg",
+        "genre_ids": [
+            18,
+            36,
+            10752
+        ],
+        "id": 680133,
+        "original_language": "bn",
+        "original_title": "মুজিব: একটি জাতির রূপকার",
+        "overview": "Biopic on the father of the nation of Bangladesh, Sheikh Mujibur Rahman. The film will showcase his growing up as a child to his standing up against all injustice in his youth to fighting for the independence of his country. How he led a country to it's independence with his inspirational presence and fight for the justice.",
+        "popularity": 180.344,
+        "poster_path": "/bnIJ5lK66cfnvJ0A1D6FLp4NZzJ.jpg",
+        "release_date": "2023-10-27",
+        "title": "Mujib: The Making of a Nation",
+        "video": false,
+        "vote_average": 5.875,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dLfPOTB9zlGCNZJinYvf9yygaX6.jpg",
+        "genre_ids": [
+            10749,
+            35
+        ],
+        "id": 264859,
+        "original_language": "de",
+        "original_title": "Sechs Schwedinnen auf der Alm",
+        "overview": "This comedy has everyone's favorite 6 Swedish gals enjoying their stay in the alps. When the girls aren't enjoying the pleasure of their own company they're out having a good time with nearly everyone else in town.",
+        "popularity": 35.083,
+        "poster_path": "/5kk9GUeeGTdyhcerUfxzhJYt6Gm.jpg",
+        "release_date": "1983-07-22",
+        "title": "Six Swedish Girls in Alps",
+        "video": false,
+        "vote_average": 5.811,
+        "vote_count": 37
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/35z8hWuzfFUZQaYog8E9LsXW3iI.jpg",
+        "genre_ids": [
+            12,
+            28
+        ],
+        "id": 335977,
+        "original_language": "en",
+        "original_title": "Indiana Jones and the Dial of Destiny",
+        "overview": "Finding himself in a new era, and approaching retirement, Indy wrestles with fitting into a world that seems to have outgrown him. But as the tentacles of an all-too-familiar evil return in the form of an old rival, Indy must don his hat and pick up his whip once more to make sure an ancient and powerful artifact doesn't fall into the wrong hands.",
+        "popularity": 391.785,
+        "poster_path": "/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",
+        "release_date": "2023-06-28",
+        "title": "Indiana Jones and the Dial of Destiny",
+        "video": false,
+        "vote_average": 6.675,
+        "vote_count": 1982
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dfz36OXtTUUy9J0QjqoQRRiEWzP.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 917281,
+        "original_language": "es",
+        "original_title": "Me encontrarás en lo profundo del abismo",
+        "overview": "",
+        "popularity": 84.402,
+        "poster_path": "/xJW8YMfXUjOqKXwDM4LQfwr8s15.jpg",
+        "release_date": "2023-07-06",
+        "title": "Into the Abyss",
+        "video": false,
+        "vote_average": 6.868,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nnkiORKM1Q4AU1eWULI1PiWOTLu.jpg",
+        "genre_ids": [
+            16,
+            12,
+            28
+        ],
+        "id": 1029599,
+        "original_language": "es",
+        "original_title": "Aguila y Jaguar: Los Guerreros Legendarios",
+        "overview": "In a post-apocalyptic future in which water has almost disappeared, two young survivors travel back in time to find the mythical power of the prehispanic God of water, and so be able to create the vital resource. However, when they arrive at the present they discover that the power is in the hands of an unscrupulous businessman who had always wanted to monopolize water and who knows everything about prehispanic myths. The Aztaya brotherhood, a group of heroes, successors from the legendary Aztec and Mayan warriors, will begin the adventure to prevent the villain's plan and help the travelers to change their sad future, teaming up to fight the powerful enemy and his dark allies. To win, the heroes will have to awake the greatest warriors of Aztec and Mayan mythology: The Eagle and the Jaguar.",
+        "popularity": 30.072,
+        "poster_path": "/6qR9WbXYIddZcVk6nxFULfHcKmK.jpg",
+        "release_date": "2022-09-29",
+        "title": "Eagle and Jaguar, The Legendary Warriors",
+        "video": false,
+        "vote_average": 6.516,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2QL5j6mB4ZpyBcVr0WO9H9MQGBu.jpg",
+        "genre_ids": [
+            28,
+            12,
+            18,
+            14
+        ],
+        "id": 734253,
+        "original_language": "hi",
+        "original_title": "आदिपुरुष",
+        "overview": "7000 years ago, Ayodhya's Prince Raghava and Prince Sesh along with the Mighty Vanar Warriors travels to the island of Lanka with an aim to rescue Raghava's wife Janaki, who has been abducted by Lankesh, the king of Lanka.",
+        "popularity": 189.38,
+        "poster_path": "/bNY8xxtLm0HtdPS0kBttK3WKGQf.jpg",
+        "release_date": "2023-06-16",
+        "title": "Adipurush",
+        "video": false,
+        "vote_average": 5.398,
+        "vote_count": 59
+    }
+]

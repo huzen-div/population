@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Population growth per country</title>
+
+  <link href="./assets/bootstrap/bootstrap.min.css" rel="stylesheet">
+
+  <link rel="stylesheet" href="./assets/rangeSlider/rangeSlider.min.css" />
+
+  <link rel="stylesheet" href="./assets/css/main.css" />
+</head>
+
+<style>
+</style>
+
+<body>
+  <div id="loader-main">
+    <span id="loader">Loading</span>
+  </div>
+
+  <figure class="highcharts-figure">
+    <div id="parent-container">
+      <div id="play-controls" style="display: flex;">
+        <div>
+          <button id="play-pause-button" class="fa fa-play" title="play"></button>
+        </div>
+        <div style="width: 100%;">
+          <input type="text" id="example_id" name="example_name" value="" />
+          <div class="slidecontainer">
+          </div>
+        </div>
+      </div>
+      <div id="container-top">
+        <div style="display: flex;align-items: center;margin-left: 12px;">
+          <span style="font-size: 0.7rem;font-weight: bold;">
+            Region
+          </span>
+
+          <span style="background: #5e2ed9;" class="legend-cu"></span>
+          <span style="font-size: 0.7rem;">Asia</span>
+
+          <span style="background: #9426fb;" class="legend-cu"></span>
+          <span style="font-size: 0.7rem;">Europe</span>
+
+          <span style="background: #d74518;" class="legend-cu"></span>
+          <span style="font-size: 0.7rem;">Africa</span>
+
+          <span style="background: #e27914;" class="legend-cu"></span>
+          <span style="font-size: 0.7rem;">Oceania</span>
+
+          <span style="background: #f4ba13;" class="legend-cu"></span>
+          <span style="font-size: 0.7rem;">Americas</span>
+        </div>
+        </p>
+      </div>
+      <div id="container"></div>
+    </div>
+  </figure>
+
+  <script src="./assets/knockout/knockout-latest.js"></script>
+  <script src="./assets/knockout/knockout.mapping.min.js"></script>
+  <script src="./assets/jquery/jquery3.3.1.min.js"></script>
+  <script src="./assets/rangeSlider/rangeSlider.min.js"></script>
+  
+  <script src="https://code.highcharts.com/highcharts.js"></script>
+  <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+  <!-- <script src="./assets/highcharts/highcharts.js"></script>
+  <script src="./assets/highcharts/accessibility.js"></script> -->
+
+  <script src="./assets/js/main.js"></script>
+
+</body>
+
+</html>

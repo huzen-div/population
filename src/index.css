@@ -1,0 +1,18 @@
+.ellipsis-cs {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+}
+.ellipsis-cs1 {
+  -webkit-line-clamp: 1;
+}
+.ellipsis-cs2 {
+  -webkit-line-clamp: 2;
+}
+
+.badge-cs-cart {
+  background: "#11c917";
+  color: "white";
+  border-radius: 30;
+  padding: "2px 8px";
+}
